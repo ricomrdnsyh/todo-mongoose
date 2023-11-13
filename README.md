@@ -11,7 +11,7 @@ This is the documentation for the Todo List API
 ### Instalation
 1. Clone the repository:
    
-    `git clone`
+    `git clone https://github.com/ricomrdnsyh/todo-mongoose.git`
 2. Change to the project directory:
 
     `cd todo-mongoose`
